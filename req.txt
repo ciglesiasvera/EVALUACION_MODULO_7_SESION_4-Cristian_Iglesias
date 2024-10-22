@@ -1,0 +1,45 @@
+CUE: CLAVES PRIMARIAS Y CRUD
+DRILLING: LISTADO DE PRODUCTOS
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura 
+y los videos del CUE: Claves Primarias y Crud.
+
+EJERCICIO:
+
+1.- Debes desarrollar el prototipo de una funcionalidad para el sitio de un 
+supermercado. Lo primero será crear la siguiente vista que lista algunos 
+productos, la cual se debe visualizar de la siguiente manera:
+
+
+Productos
+
+-----------------------------------------------------------------
+|id |Nombre         |Descripcion                       |Precio  |
+-----------------------------------------------------------------
+| 1 |Crema Colgate  |Crema para el cepillado de dientes|1500.00 |
+-----------------------------------------------------------------
+| 2 |Champú         |Champú para el cabello            |2500.00 |
+-----------------------------------------------------------------
+| 3 |Jabón en polvo |Jabón en polvo para lavar la ropa |3500.00 |
+-----------------------------------------------------------------
+
+
+2.- Posteriormente, debes añadir un registro a la tabla, haciendo clic 
+en un enlace con el texto "Agregar Producto", y que debe visualizar
+de la siguiente manera:
+
+Productos
+
+-----------------------------------------------------------------
+|id |Nombre         |Descripcion                       |Precio  |
+-----------------------------------------------------------------
+| 1 |Crema Colgate  |Crema para el cepillado de dientes|1500.00 |
+-----------------------------------------------------------------
+| 2 |Champú         |Champú para el cabello            |2500.00 |
+-----------------------------------------------------------------
+| 3 |Jabón en polvo |Jabón en polvo para lavar la ropa |3500.00 |
+-----------------------------------------------------------------
+| 9 |Cepillo dental |Cepillo para cepillar los dientes |1000.00 |
+-----------------------------------------------------------------
+
+Agregar producto  
+----------------
